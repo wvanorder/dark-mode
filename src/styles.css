@@ -229,12 +229,12 @@ img {
 
 .dark-mode{
   background-color: rgb(45, 29, 57);
-  color: white;
+  color: rgb(242, 242, 233);
   transition-duration: 0.6s;
 }
 
 .normal-mode{
   background-color: rgb(242, 242, 233);
-  color: black;
+  color: rgb(45, 29, 57);
   transition-duration: 0.6s;
 }
